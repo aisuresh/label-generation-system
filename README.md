@@ -47,3 +47,6 @@ Label Design Software
 	Edit number of labels to be printed 
 	Print label
 
+# Sample Label
+
+<img src="https://github.com/aisuresh/label-generation-system/blob/master/label_sample_csharp.jpg">
