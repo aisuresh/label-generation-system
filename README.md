@@ -6,7 +6,6 @@ Label Design Software
 ### Product Features:
 	Configure label
 	Design label templates
-	Manage label data easier
 	Add product information
 	Edit product information
 	Store labels to be printed later
